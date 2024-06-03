@@ -14,7 +14,13 @@ Encoding Generator:
 Utilize the face recognition library to encode facial features.
 Use 128 facial parameters to generate unique facial encodings for accurate identification.
 
+![image](https://github.com/nishantsingha13/Automated-Face-recgonition-Attendence-System/assets/103675762/05a5d3b6-7f9f-4614-8d6f-519e02e132b4)
+
+
 working of Face-recognition "https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78"
+
+![image](https://github.com/nishantsingha13/Automated-Face-recgonition-Attendence-System/assets/103675762/c10a5b27-f595-4797-b33c-c99612354cfb)
+
 
 Database Setup:
 Set up a robust database to store student data and images.
