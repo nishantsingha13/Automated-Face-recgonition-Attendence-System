@@ -1,14 +1,14 @@
 # Automated-Face-recgonition-DetectAttend:
 ### Face Recognition Attendence System
-created a real-time Face Attendance system. Added graphical interface along with a live database to create a real-world system. 
+created a real-time Face Detect system. Added a graphical interface along with a live database to create a real-world system. 
 
 ### Setup the Webcam:
-Configure the webcam to capture live video feed.
+Configure the webcam to capture the live video feed.
 Ensure the camera settings are optimized for clear facial recognition.
 
 ### Setup the Graphical Interface:
 Design and implement an elegant graphical user interface (GUI) for better user experience.
-Integrate the GUI with the system to display live video feed and attendance status.
+Integrate the GUI with the system to display the live video feed and attendance status.
 
 ### Encoding Generator:
 Utilize the face recognition library to encode facial features.
@@ -28,7 +28,7 @@ Use Firebase for efficient and real-time data storage and retrieval.
 
 ### Attendance Marking Logic:
 Check if the user has already given attendance:
-If yes, display "Attendance already marked."
-If no, mark the attendance and update the database.
+If yes, display "Presence already marked."
+If no, mark the Presence and update the database.
 
 Implement a validation mechanism to ensure unregistered persons cannot mark attendance.
