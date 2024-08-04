@@ -1,4 +1,4 @@
-# Automated-Face-recgonition-Attendence-System
+# Automated-Face-recgonition-DetectAttend:
 ### Face Recognition Attendence System
 created a real-time Face Attendance system. Added graphical interface along with a live database to create a real-world system. 
 
