@@ -1,8 +1,8 @@
-import firebase_admin
-import credentials
-from firebase_admin import storage
-import db
-import os
-import face_recognition
-import pickle
-import cv2
+firebase_admin
+credentials
+storage
+db
+os
+face_recognition
+pickle
+cv2
