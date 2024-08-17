@@ -6,3 +6,4 @@ os
 face_recognition
 pickle
 cv2
+streamlit
