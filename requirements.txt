@@ -2,7 +2,6 @@ firebase_admin
 credentials
 storage
 db
-os
 face_recognition
 pickle
 cv2
